@@ -1,0 +1,6 @@
+{
+  "name": "Infrastructure Control Plane",
+  "description": "An elite enterprise-grade infrastructure operations control center featuring real-time telemetry, advanced system layout visualization, and Gemini-powered smart diagnostics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
