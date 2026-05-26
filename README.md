@@ -1,6 +1,7 @@
 <div align="center">
 
 # ⚡ AetherOps AI
+<img width="1908" height="865" alt="Screenshot 2026-05-26 122323" src="https://github.com/user-attachments/assets/85bea660-a5f6-4ee0-8e58-f8797502d918" />
 
 ### AI-Native Infrastructure Intelligence Operating System
 
